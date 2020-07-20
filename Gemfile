@@ -13,6 +13,8 @@ gem 'actionview', '>= 5.2.4.3'
 
 gem 'activesupport', '>= 5.2.4.3'
 
+gem 'activestorage', '>= 5.2.4.3'
+
 group :development, :test do
   gem 'sqlite3'
 end
