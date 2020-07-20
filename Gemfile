@@ -11,6 +11,8 @@ gem 'rails', '>= 5.2.3'
 
 gem 'actionview', '>= 5.2.4.3'
 
+gem 'activesupport', '>= 5.2.4.3'
+
 group :development, :test do
   gem 'sqlite3'
 end
